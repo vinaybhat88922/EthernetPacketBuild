@@ -1,0 +1,10 @@
+C:\NYT_Lastshot\Form1\Form1\bin\Debug\Form1.exe.config
+C:\NYT_Lastshot\Form1\Form1\bin\Debug\Form1.exe
+C:\NYT_Lastshot\Form1\Form1\bin\Debug\Form1.pdb
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.Form2.resources
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.exe
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.pdb
+C:\NYT_Lastshot\Form1\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
